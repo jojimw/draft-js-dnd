@@ -1,0 +1,77 @@
+{
+    "blocks": [
+      {
+        "key": "7njs1",
+        "text": "Terms and Conditions",
+        "type": "helloSign",
+        "depth": 0,
+        "inlineStyleRanges": [
+          {
+            "offset": 0,
+            "length": 20,
+            "style": "fontsize-16"
+          },
+          {
+            "offset": 0,
+            "length": 20,
+            "style": "BOLD"
+          }
+        ],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "da8sv",
+        "text": "",
+        "type": "helloSign",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "bhmtm",
+        "text": "This Freelance Contract is governed by the terms and conditions provided here and in Attachment A, attached hereto.",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [
+          {
+            "offset": 0,
+            "length": 115,
+            "style": "fontsize-16"
+          }
+        ],
+        "entityRanges": [],
+        "data": {
+          "text-align": "justify"
+        }
+      },
+      {
+        "key": "7vv4u",
+        "text": "",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "f7cjl",
+        "text": "IN WITNESS WHEREOF, by their respective signatures below, the parties have caused the Contract, inclusive of Attachment A, to be duly executed and effective as of the Effective Date.",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [
+          {
+            "offset": 0,
+            "length": 182,
+            "style": "fontsize-16"
+          }
+        ],
+        "entityRanges": [],
+        "data": {
+          "text-align": "justify"
+        }
+      }
+    ],
+    "entityMap": {}
+  }

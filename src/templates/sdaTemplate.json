@@ -1,0 +1,2564 @@
+{
+    "blocks": [
+        {
+            "key": "7njs1",
+            "text": "[def:$cbf|check|req1|signer1]",
+            "type": "helloSign",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 29,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 29,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 29,
+                    "style": "fontsize-11pt"
+                },
+                {
+                    "offset": 0,
+                    "length": 29,
+                    "style": "fontfamily-Arial"
+                }
+            ],
+            "entityRanges": [],
+            "data": {}
+        },
+        {
+            "key": "fhq5d",
+            "text": "[def:$cbc|check|req1|signer2]",
+            "type": "helloSign",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 29,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 29,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 29,
+                    "style": "fontsize-11pt"
+                },
+                {
+                    "offset": 0,
+                    "length": 29,
+                    "style": "fontfamily-Arial"
+                }
+            ],
+            "entityRanges": [],
+            "data": {}
+        },
+        {
+            "key": "7njs0",
+            "text": "SOFTWARE DEVELOPMENT AGREEMENT",
+            "type": "header-two",
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "data": {
+                "text-align": "center"
+            }
+        },
+        {
+            "key": "1vknh",
+            "text": "This Freelance Contract (this \"Contract\" or this \"Freelance Contract\"), is entered into and made effective as of {{text date}} (the \"Effective Date\"), by and between:",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 166,
+                    "style": "fontsize-16"
+                },
+                {
+                    "offset": 113,
+                    "length": 13,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 113,
+                    "length": 13,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 113,
+                    "length": 13,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "fjqa7",
+            "text": "{{text client.first_name}} {{text client.last_name}}, whose address is {{text client.address}} (\"Customer\"), and",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 52,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 71,
+                    "length": 23,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 52,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 71,
+                    "length": 23,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 112,
+                    "style": "fontsize-16"
+                },
+                {
+                    "offset": 0,
+                    "length": 52,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 71,
+                    "length": 23,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "btodg",
+            "text": "{{text freelancer.first_name}} {{text freelancer.last_name}}, whose address is {{text freelancer.address}} (\"Freelancer\").",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 60,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 62,
+                    "length": 16,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 79,
+                    "length": 27,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 60,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 62,
+                    "length": 16,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 79,
+                    "length": 27,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 122,
+                    "style": "fontsize-16"
+                },
+                {
+                    "offset": 0,
+                    "length": 60,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 62,
+                    "length": 16,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 79,
+                    "length": 27,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "70fv6",
+            "text": "WHEREAS:",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 8,
+                    "style": "fontsize-16"
+                }
+            ],
+            "entityRanges": [],
+            "data": {}
+        },
+        {
+            "key": "92i47",
+            "text": "1. Customer has a need for {{text project.description}} ; and",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 61,
+                    "style": "fontsize-16"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "3dhta",
+            "text": "2. Freelancer has an interest in performing such services for Customer; and",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 75,
+                    "style": "fontsize-16"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "1pr6h",
+            "text": "3. The parties wish to set forth the terms and conditions upon which such services will be provided to Customer;",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 112,
+                    "style": "fontsize-16"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "6ec4u",
+            "text": "NOW THEREFORE, in consideration of the foregoing, and the mutual promises herein contained, the parties hereby agree as follows:",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 128,
+                    "style": "fontsize-16"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "cv002",
+            "text": "Description of the Services",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 27,
+                    "style": "fontsize-16"
+                },
+                {
+                    "offset": 0,
+                    "length": 27,
+                    "style": "BOLD"
+                }
+            ],
+            "entityRanges": [],
+            "data": {}
+        },
+        {
+            "key": "3an7i",
+            "text": "Freelancer will {{text project.description}}",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 44,
+                    "style": "fontsize-16"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "k2lm",
+            "text": "Deliverables",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 12,
+                    "style": "fontsize-16"
+                },
+                {
+                    "offset": 0,
+                    "length": 12,
+                    "style": "BOLD"
+                }
+            ],
+            "entityRanges": [],
+            "data": {}
+        },
+        {
+            "key": "7umii",
+            "text": "{{iterable project.deliverables}}",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 33,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 33,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 33,
+                    "style": "fontsize-16"
+                },
+                {
+                    "offset": 0,
+                    "length": 33,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                }
+            ],
+            "entityRanges": [],
+            "data": {}
+        },
+        {
+            "key": "5vj8t",
+            "text": "Project Schedule",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 16,
+                    "style": "fontsize-16"
+                },
+                {
+                    "offset": 0,
+                    "length": 16,
+                    "style": "BOLD"
+                }
+            ],
+            "entityRanges": [],
+            "data": {}
+        },
+        {
+            "key": "3ebjj",
+            "text": "{{iterable project.schedules}}",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 30,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 30,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 30,
+                    "style": "fontsize-16"
+                },
+                {
+                    "offset": 0,
+                    "length": 30,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                }
+            ],
+            "entityRanges": [],
+            "data": {}
+        },
+        {
+            "key": "auhtk",
+            "text": "Pricing/Rates",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 13,
+                    "style": "fontsize-16"
+                },
+                {
+                    "offset": 0,
+                    "length": 13,
+                    "style": "BOLD"
+                }
+            ],
+            "entityRanges": [],
+            "data": {}
+        },
+        {
+            "key": "fmoh4",
+            "text": "{{iterable project.rates}}",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 26,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 26,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 26,
+                    "style": "fontsize-16"
+                },
+                {
+                    "offset": 0,
+                    "length": 26,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                }
+            ],
+            "entityRanges": [],
+            "data": {}
+        },
+        {
+            "key": "bcbt0",
+            "text": "Payment Terms/Schedule",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 22,
+                    "style": "fontsize-16"
+                },
+                {
+                    "offset": 0,
+                    "length": 22,
+                    "style": "BOLD"
+                }
+            ],
+            "entityRanges": [],
+            "data": {}
+        },
+        {
+            "key": "agbtf",
+            "text": "{{iterable project.paymentTerms}}",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 33,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 33,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 33,
+                    "style": "fontsize-16"
+                },
+                {
+                    "offset": 0,
+                    "length": 33,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                }
+            ],
+            "entityRanges": [],
+            "data": {}
+        },
+        {
+            "key": "be6q1",
+            "text": "Terms and Conditions",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 20,
+                    "style": "fontsize-16"
+                },
+                {
+                    "offset": 0,
+                    "length": 20,
+                    "style": "BOLD"
+                }
+            ],
+            "entityRanges": [],
+            "data": {}
+        },
+        {
+            "key": "bhmtm",
+            "text": "This Freelance Contract is governed by the terms and conditions provided here and in Attachment A, attached hereto.",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 115,
+                    "style": "fontsize-16"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "f7cjl",
+            "text": "IN WITNESS WHEREOF, by their respective signatures below, the parties have caused the Contract, inclusive of Attachment A, to be duly executed and effective as of the Effective Date.",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 182,
+                    "style": "fontsize-16"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "chauq",
+            "text": "",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "data": {}
+        },
+        {
+            "key": "36t3p",
+            "text": "",
+            "type": "freelancerSignature",
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "data": {
+                "first_name": "",
+                "last_name": "",
+                "address": ""
+            }
+        },
+        {
+            "key": "36l3p",
+            "text": "",
+            "type": "clientSignature",
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "data": {
+                "first_name": "",
+                "last_name": "",
+                "address": ""
+            }
+        },
+        {
+            "key": "33t3p",
+            "text": "",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "data": {}
+        },
+        {
+            "key": "880qh",
+            "text": "",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [],
+            "entityRanges": [],
+            "data": {}
+        },
+        {
+            "key": "7edos",
+            "text": "Attachment A",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 12,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 12,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 12,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 12,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 12,
+                    "style": "fontsize-24"
+                },
+                {
+                    "offset": 0,
+                    "length": 12,
+                    "style": "BOLD"
+                }
+            ],
+            "entityRanges": [],
+            "data": {}
+        },
+        {
+            "key": "5pu63",
+            "text": "Freelance Contract Terms and Conditions",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 39,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 39,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 39,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 39,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 39,
+                    "style": "fontsize-24"
+                }
+            ],
+            "entityRanges": [],
+            "data": {}
+        },
+        {
+            "key": "bkofo",
+            "text": "I. Intellectual Property Rights",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 31,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 31,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 31,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 31,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 31,
+                    "style": "fontsize-18"
+                },
+                {
+                    "offset": 0,
+                    "length": 31,
+                    "style": "BOLD"
+                }
+            ],
+            "entityRanges": [],
+            "data": {}
+        },
+        {
+            "key": "7285s",
+            "text": "1. Retained Rights. Each party will retain all right, title, and interest in and to its own Pre‐Existing Intellectual Property irrespective of any disclosure of such Pre‐Existing Intellectual Property to the other party, subject to any licenses granted herein.",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 260,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 260,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 260,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 260,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 260,
+                    "style": "fontsize-16"
+                },
+                {
+                    "offset": 3,
+                    "length": 15,
+                    "style": "ITALIC"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "c3srj",
+            "text": "2. Pre‐Existing Intellectual Property.",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 38,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 38,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 38,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 38,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 38,
+                    "style": "fontsize-16"
+                },
+                {
+                    "offset": 2,
+                    "length": 36,
+                    "style": "ITALIC"
+                }
+            ],
+            "entityRanges": [],
+            "data": {}
+        },
+        {
+            "key": "dgcrv",
+            "text": "a. Freelancer will not use any Freelancer or third party Pre‐Existing Intellectual Property in connection with this Contract unless Freelancer has the right to use it for Customer’s benefit. If Freelancer is not the owner of such Pre‐Existing Intellectual Property, Freelancer will obtain from the owner any rights as are necessary to enable Freelancer to comply with this Contract.",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 382,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 382,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 382,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 382,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 382,
+                    "style": "fontsize-16"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "ee8c8",
+            "text": "b. Freelancer grants Customer a non‐exclusive, royalty‐free, worldwide, perpetual and irrevocable license in Freelancer and third party Pre‐Existing Intellectual Property, to the extent such Pre‐Existing Intellectual Property is incorporated into any Deliverable, with the license including the right to make, have made, sell, use, reproduce, modify, adapt, display, distribute, make other versions of and disclose the property and to sublicense others to do these things.",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 472,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 472,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 472,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 472,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 472,
+                    "style": "fontsize-16"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "52g7s",
+            "text": "c. Freelancer will not incorporate any materials from a third party, including Open Source or freeware, into any Deliverable unless (i) Freelancer clearly identifies the specific elements of the Deliverable to contain third partymaterials, (ii) Freelancer identifies the corresponding third party licenses and any restrictions on use thereof, and (ii) approval is given by Customer in writing. Freelancer represents, warrants and covenants that Freelancer has complied and shall continue to comply with all third party licenses (including all open source licenses) associated with any software components that will be included in the Deliverables or any other materials supplied by Freelancer. Freelancer shall indemnify Customer against any losses and liability incurred by Customer due to failure of Freelancer to meet any of the requirements in any of the third party licenses.",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 880,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 880,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 880,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 880,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 880,
+                    "style": "fontsize-16"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "67kj0",
+            "text": "3. Ownership of Deliverables. Subject to Freelancer and third party rights in Pre‐Existing Intellectual Property, all Deliverables, whether complete or in progress, and all Intellectual Property Rights related thereto shall belong to Customer, and Freelancer hereby assigns such rights to Customer. Freelancer agrees that Customer will own all patents, inventor’s certificates, utility models or other rights, copyrights or trade secrets covering the Deliverables and will have full rights to use the Deliverables without claim on the part of Freelancer for additional compensation and without challenge, opposition or interference by Freelancer and Freelancer will, and will cause each of its Personnel to, waive their respective moral rights therein. Freelancer will sign any necessary documents and will otherwise assist Customer in securing, maintaining and defending copyrights or other rights to protect the Deliverables in any country.",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 942,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 942,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 942,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 942,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 942,
+                    "style": "fontsize-16"
+                },
+                {
+                    "offset": 3,
+                    "length": 26,
+                    "style": "ITALIC"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "1drk3",
+            "text": "4. No Rights to Customer Intellectual Property. Except for the limited license to use materials provided by Customer as may be necessary in order for Freelancer to perform Services under this Contract, Freelancer is granted noright, title, or interest in any Customer Intellectual Property.",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 290,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 290,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 290,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 290,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 290,
+                    "style": "fontsize-16"
+                },
+                {
+                    "offset": 3,
+                    "length": 44,
+                    "style": "ITALIC"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "eou1s",
+            "text": "II. Confidentiality",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 19,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 19,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 19,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 19,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 19,
+                    "style": "BOLD"
+                },
+                {
+                    "offset": 0,
+                    "length": 19,
+                    "style": "fontsize-18"
+                }
+            ],
+            "entityRanges": [],
+            "data": {}
+        },
+        {
+            "key": "6ga1",
+            "text": "1. Confidential Information. For purposes of this Contract, \"Confidential Information\" shall mean information or material proprietary to a Party or designated as confidential by such Party (the \"Disclosing Party\"), as well as information about which a Party (the \"Receiving Party\") obtains knowledge or access, through or as a result of this Contract (including information conceived, originated, discovered or developed in whole or in part by Freelancer hereunder). Confidential Information does not include: a) information that is or becomes publicly known without restriction and without breach of this Contract or that is generally employed by the trade at or after the time the Receiving Party first learns of such information; b) generic information or knowledge which the Receiving Party would have learned in the course of similaremployment or work elsewhere in the trade; c) information the Receiving Party lawfully receives from a third party without restriction on disclosure and without breach of a nondisclosure obligation; d) information the Receiving Party rightfully knew prior to receiving such information from the Disclosing Party to the extent such knowledge was not subject to restrictions on further disclosure; or (e) information the Receiving Party develops independent of any information originating from the Disclosing Party.",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 1351,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 1351,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 1351,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 1351,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 1351,
+                    "style": "fontsize-16"
+                },
+                {
+                    "offset": 3,
+                    "length": 25,
+                    "style": "ITALIC"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "acpd8",
+            "text": "2. Customer Confidential Information. The following constitute Confidential Information of Customer and should not be disclosed to third parties: the Deliverables, discoveries, ideas, concepts, software in various states of development, designs, drawings, specifications, techniques, models, data, source code, source files and documentation, object code, documentation, diagrams, flow charts, research, development, processes, procedures, \"know-how\", marketing techniques and materials, marketing and development plans, customer names and other information related to customers, price lists, pricing policies and financial information, this Contract and the existence of this Contract, and any work assignments authorized or issued under this Contract. Freelancer will not use Customer’s name, likeness, or logo (Customer’s \"Identity\"), without Customer’s prior written consent, to include use or reference to Customer’s Identity, directly or indirectly, in conjunction with any other clients or potential clients, any client lists, advertisements, news releases or releases to any professional or trade publications.",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 1118,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 1118,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 1118,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 1118,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 1118,
+                    "style": "fontsize-16"
+                },
+                {
+                    "offset": 3,
+                    "length": 34,
+                    "style": "ITALIC"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "1196c",
+            "text": "3. Non-Disclosure. The Parties hereby agree that during the term hereof and at all times thereafter, and except as specifically permitted herein or in a separate writing signed by the Disclosing Party, the Receiving Party shall not use, commercialize or disclose Confidential Information to any person or entity. Upon termination, or at any time upon the request of the Disclosing Party, the Receiving Party shall return to the Disclosing Party all Confidential Information, including all notes, data, reference materials, sketches, drawings, memorandums, documentations and records which in any way incorporate Confidential Information.",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 637,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 637,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 637,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 637,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 637,
+                    "style": "fontsize-16"
+                },
+                {
+                    "offset": 3,
+                    "length": 15,
+                    "style": "ITALIC"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "4r6oj",
+            "text": "4. Right to Disclose. With respect to any information, knowledge, or data disclosed to Customer by the Freelancer, the Freelancer warrants that the Freelancer has full and unrestricted right to disclose the same without incurring legal liability to others, and that Customer shall have full and unrestricted right to use and publish the same as it may see fit. Any restrictions on Customer’s use of any information, knowledge, or data disclosed by Freelancer must be made known to Customer as soon as practicable and in any event agreed upon before the start of any work.",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 571,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 571,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 571,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 571,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 571,
+                    "style": "fontsize-16"
+                },
+                {
+                    "offset": 3,
+                    "length": 18,
+                    "style": "ITALIC"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "70ie6",
+            "text": "III. Conflict of Interest",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 25,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 25,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 25,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 25,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 25,
+                    "style": "BOLD"
+                },
+                {
+                    "offset": 0,
+                    "length": 25,
+                    "style": "fontsize-18"
+                }
+            ],
+            "entityRanges": [],
+            "data": {}
+        },
+        {
+            "key": "6f5gi",
+            "text": "1. Freelancer represents that its execution and performance of this Contract does not conflict with or breach any contractual, fiduciary or other duty or obligation to which Freelancer is bound. Freelancer shall not accept any work from Customer or work from any other business organizations or entities which would create an actual or potential conflict of interest for the Freelancer or which is detrimental to Customer’s business interests.",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 443,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 443,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 443,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 443,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 443,
+                    "style": "fontsize-16"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "alil",
+            "text": "IV. Termination",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 15,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 15,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 15,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 15,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 15,
+                    "style": "BOLD"
+                },
+                {
+                    "offset": 0,
+                    "length": 15,
+                    "style": "fontsize-18"
+                }
+            ],
+            "entityRanges": [],
+            "data": {}
+        },
+        {
+            "key": "98jai",
+            "text": "Rights to Terminate.",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 20,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 20,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 20,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 20,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 20,
+                    "style": "fontsize-16"
+                },
+                {
+                    "offset": 0,
+                    "length": 20,
+                    "style": "ITALIC"
+                }
+            ],
+            "entityRanges": [],
+            "data": {}
+        },
+        {
+            "key": "c1fdh",
+            "text": "a. Customer may terminate this Contract and/or an individual project for its convenience, without liability at any time, upon prior written notice to Freelancer.",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 161,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 161,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 161,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 161,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 161,
+                    "style": "fontsize-16"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "fltbl",
+            "text": "b. Freelancer may terminate this Contract upon thirty days prior written notice provided there are no open projects at the time notice is given.",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 144,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 144,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 144,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 144,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 144,
+                    "style": "fontsize-16"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "7ehju",
+            "text": "c. Customer may terminate this Contract and/or any open projects immediately for cause if the Freelancer fails to perform any of its obligations under this",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 155,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 155,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 155,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 155,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 155,
+                    "style": "fontsize-16"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "r6ko",
+            "text": "Contract or if Freelancer breaches any of the warranties provided herein and fails to correct such failure or breach to Customer’s reasonable satisfaction within ten (10) calendar days (unless extended by Customer) following notice by Customer. Customer shall be entitled to seek and obtain all remedies available to it in law or in equity.",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 340,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 340,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 340,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 340,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 340,
+                    "style": "fontsize-16"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "f7bba",
+            "text": "1. Upon termination of any project or work given Freelancer hereunder, Freelancer will immediately provide Customer with any and all work in progress or completed prior to the termination date. As Customer’s sole obligation to Freelancer resulting from such termination, Customer will pay Freelancer an equitable amount as determined by Customer for the partially completed work in progress and the agreed to price for the completed Services and/or Deliverables provided and accepted prior to the date of termination",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 516,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 516,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 516,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 516,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 516,
+                    "style": "fontsize-16"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "69kro",
+            "text": "2. Upon termination or expiration of this Contract or a project performed by Freelancer hereunder, whichever occurs first, Freelancer shall promptly return to Customer all materials and or tools provided by Customer under this Contract and all Confidential Information provided by Customer to Freelancer.",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 304,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 304,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 304,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 304,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 304,
+                    "style": "fontsize-16"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "87saf",
+            "text": "3. Any provision or clause in this Contract that, by its language or context, impliesits survival shall survive any termination or expiration of this Contract.",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 159,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 159,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 159,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 159,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 159,
+                    "style": "fontsize-16"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "112if",
+            "text": "V. Warranties",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 13,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 13,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 13,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 13,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 13,
+                    "style": "BOLD"
+                },
+                {
+                    "offset": 0,
+                    "length": 13,
+                    "style": "fontsize-18"
+                }
+            ],
+            "entityRanges": [],
+            "data": {}
+        },
+        {
+            "key": "2vorg",
+            "text": "Freelancer warrants that:",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 25,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 25,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 25,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 25,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 25,
+                    "style": "fontsize-16"
+                }
+            ],
+            "entityRanges": [],
+            "data": {}
+        },
+        {
+            "key": "c448q",
+            "text": "1. the Services and Deliverables are original and do not infringe upon any third party’s patents, trademarks, trade secrets, copyrights or other proprietary rights,",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 164,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 164,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 164,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 164,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 164,
+                    "style": "fontsize-16"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "akk33",
+            "text": "2. it will perform the Services hereunder in a professional and workmanlike manner,",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 83,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 83,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 83,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 83,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 83,
+                    "style": "fontsize-16"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "8l3bj",
+            "text": "3. the Deliverables Freelancer provides to Customer are new, of acceptable quality free from defects in material and workmanship and will meet the requirements and conform with any specifications agreed between the parties,",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 223,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 223,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 223,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 223,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 223,
+                    "style": "fontsize-16"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "1tq8f",
+            "text": "4. it has all necessary permits and is authorized to do business in all jurisdictions where Services are to be performed,",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 121,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 121,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 121,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 121,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 121,
+                    "style": "fontsize-16"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "2j28a",
+            "text": "5. it will comply with all applicable federal and other jurisdictional laws in performing the Services,",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 103,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 103,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 103,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 103,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 103,
+                    "style": "fontsize-16"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "18h0a",
+            "text": "6. it has all rights to enter into this Contract and there are no impediments to Freelancer’s execution of this Contract or Freelancer’s performance of Services hereunder.",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 171,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 171,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 171,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 171,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 171,
+                    "style": "fontsize-16"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "33f4m",
+            "text": "VI. Limitation of Liability",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 27,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 27,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 27,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 27,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 27,
+                    "style": "BOLD"
+                },
+                {
+                    "offset": 0,
+                    "length": 27,
+                    "style": "fontsize-18"
+                }
+            ],
+            "entityRanges": [],
+            "data": {}
+        },
+        {
+            "key": "6sdq9",
+            "text": "1. EXCEPT AS SET FORTH IN THIS SECTION BELOW, IN NO EVENT WILL EITHER PARTY BE LIABLE FOR ANY SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES NOR FOR LOSS OF DATA, PROFITS OR REVENUE, COST OF CAPITAL OR DOWNTIME COSTS, NOR FOR ANY EXEMPLARY OR PUNITIVE DAMAGES, ARISING FROM ANY CLAIM OR ACTION, INCIDENTAL OR COLLATERAL TO, OR DIRECTLY OR INDIRECTLY RELATED TO OR IN ANY WAY CONNECTED WITH, THE SUBJECT MATTER OF THE AGREEMENT, WHETHER SUCH DAMAGES ARE BASED ON CONTRACT, TORT, STATUTE, IMPLIED DUTIES OR OBLIGATIONS, OR OTHER LEGAL THEORY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 600,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 600,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 600,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 600,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 600,
+                    "style": "fontsize-16"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "1iait",
+            "text": "2. NOTWITHSTANDING THE FOREGOING, ANY PURPORTED LIMITATION OR WAIVER OF LIABILITY SHALL NOT APPLY TO CONTRACTOR’S OBLIGATION UNDER THE INDEMNIFICATION OR CONFIDENTIAL INFORMATION SECTIONS OF THIS AGREEMENT OR EITHER PARTY’S LIABILITY TO THE OTHER FOR PERSONAL INJURY, DEATH OR PHYSICAL DAMAGE TO PROPERTY CLAIMS.",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 312,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 312,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 312,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 312,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 312,
+                    "style": "fontsize-16"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "3ss6u",
+            "text": "VII. Inspection and Acceptance",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 30,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 30,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 30,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 30,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 30,
+                    "style": "fontsize-18"
+                },
+                {
+                    "offset": 0,
+                    "length": 30,
+                    "style": "BOLD"
+                }
+            ],
+            "entityRanges": [],
+            "data": {}
+        },
+        {
+            "key": "8670t",
+            "text": "1. Non-Conforming Services and Deliverables. If any of the Services performed or Deliverables delivered do not conform to specified requirements, Customer may require the Freelancer to perform the Services again or replace or repair the non-conforming Deliverables in order to bring them into full conformity with the requirements, at Freelancer’s sole cost and expense. When the defects in Services and/or Deliverables cannot be corrected by re-performance, Customer may: (a) require Freelancer to take necessary action, at Freelancer’s own cost and expense, to ensure that future performance conforms to the requirements and/or (b) reduce any price payable under the applicable project to reflect the reduced value of the Services performed and/or Deliverables delivered by Freelancer and accepted by Customer.",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 812,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 812,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 812,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 812,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 812,
+                    "style": "fontsize-16"
+                },
+                {
+                    "offset": 3,
+                    "length": 41,
+                    "style": "ITALIC"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "cv0lo",
+            "text": "2. If Freelancer fails to promptly conform the Services and/or Deliverables to defined requirements or specifications, or take action deemed by Customer to be sufficient to ensure future performance of the project in full conformity with such requirements, Customer may (a) by contract or otherwise, perform the services or subcontract to another Freelancer to perform the Services and reduce any price payable by an amount that is equitable under the circumstances and charge the difference in re-procurement costs back to Freelancer and/or (b) terminate the project and/or this Contract for default",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 600,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 600,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 600,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 600,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 600,
+                    "style": "fontsize-16"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "7fqu",
+            "text": "VIII. Insurance",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 15,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 15,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 15,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 15,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 15,
+                    "style": "BOLD"
+                },
+                {
+                    "offset": 0,
+                    "length": 15,
+                    "style": "fontsize-18"
+                }
+            ],
+            "entityRanges": [],
+            "data": {}
+        },
+        {
+            "key": "4rqef",
+            "text": "1. Freelancer shall maintain adequate insurance coverage and minimum coverage limits for its business as required by any applicable law or regulation, including Workers’ Compensation insurance as required by any applicable law or regulation, or otherwise as determined by Freelancer in its reasonable discretion. Freelancer’s lack of insurance coverage shall limit any liability Freelancer may have under this Contract.",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 419,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 419,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 419,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 419,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 419,
+                    "style": "fontsize-16"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "63pgi",
+            "text": "IX. Miscellaneous",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 17,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 17,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 17,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 17,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 17,
+                    "style": "BOLD"
+                },
+                {
+                    "offset": 0,
+                    "length": 17,
+                    "style": "fontsize-18"
+                }
+            ],
+            "entityRanges": [],
+            "data": {}
+        },
+        {
+            "key": "farqc",
+            "text": "1. Assignment. Freelancer shall not assign any rights of this Contract or any other written instrument related to Services and/or Deliverables provided under this Contract, and no assignment shall be binding without the prior written consent of Customer. Subject to the foregoing, this Contract will be binding upon the Parties’ heirs, executors, successors and assigns.",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 370,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 370,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 370,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 370,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 370,
+                    "style": "fontsize-16"
+                },
+                {
+                    "offset": 3,
+                    "length": 11,
+                    "style": "ITALIC"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "10a7l",
+            "text": "2. Governing Law. The Parties shall make a good-faith effort to amicably settle by mutual agreement any dispute that may arise between them under this Contract. The foregoing requirement will not preclude either Party from seeking injunctive relief as it deems necessary to protect its own interests. This Contract will be construed and enforced in accordance with the laws of the State of [Your State], excluding its choice of law rules.",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 438,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 438,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 438,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 438,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 438,
+                    "style": "fontsize-16"
+                },
+                {
+                    "offset": 3,
+                    "length": 14,
+                    "style": "ITALIC"
+                },
+                {
+                    "offset": 390,
+                    "length": 12,
+                    "style": "BOLD"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "dd243",
+            "text": "3. Severability. The Parties recognize the uncertainty of the law with respect to certain provisions of this Contract and expressly stipulate that this Contract will be construed in a manner that renders its provisions valid and enforceable to the maximum extent possible under applicable law. To the extent that any provisions of this Contract are determined by a court of competent jurisdiction to be invalid or unenforceable, such provisions will be deleted from this Contract or modified so as to make them enforceable and the validity and enforceability of the remainder of such provisions and of this Contract will be unaffected.",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 635,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 635,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 635,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 635,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 635,
+                    "style": "fontsize-16"
+                },
+                {
+                    "offset": 3,
+                    "length": 13,
+                    "style": "ITALIC"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "7lhtr",
+            "text": "4. Independent Contractor. Nothing contained in this Contract shall create an employer and employee relationship, a master and servant relationship, or a principal and agent relationship between Freelancer and Customer. Customer and Freelancer agree that Freelancer is, and at all times during this Contract shall remain, an independent contractor.",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 348,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 348,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 348,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 348,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 348,
+                    "style": "fontsize-16"
+                },
+                {
+                    "offset": 3,
+                    "length": 23,
+                    "style": "ITALIC"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "2aa9f",
+            "text": "5. Force Majeure. Neither Party shall be liable for any failure to perform under this Contract when such failure is due to causes beyond that Party’s reasonable control, including, but not limited to, acts of state or governmental authorities, acts of terrorism, natural catastrophe, fire, storm, flood, earthquakes, accident, and prolonged shortage of energy. In the event of such delay the date of delivery or time for completion will be extended by a period of time reasonably necessary by both Freelancer and Customer. If the delay remains in effect for a period in excess of thirty days, Customer may terminate this Contract immediately upon written notice to Freelancer.",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 676,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 676,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 676,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 676,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 676,
+                    "style": "fontsize-16"
+                },
+                {
+                    "offset": 3,
+                    "length": 14,
+                    "style": "ITALIC"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        },
+        {
+            "key": "dgqgm",
+            "text": "6. Entire Contract. This document and all attached or incorporated documents contains the entire agreement between the Parties and supersedes any previous understanding, commitments or agreements, oral or written. Further, this Contract may not be modified, changed, or otherwise altered in any respect except by a written agreement signed by both Parties.",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+                {
+                    "offset": 0,
+                    "length": 356,
+                    "style": "color-rgb(0,0,0)"
+                },
+                {
+                    "offset": 0,
+                    "length": 356,
+                    "style": "bgcolor-rgb(255,255,255)"
+                },
+                {
+                    "offset": 0,
+                    "length": 356,
+                    "style": "fontsize-medium"
+                },
+                {
+                    "offset": 0,
+                    "length": 356,
+                    "style": "fontfamily-Muli, BlinkMacSystemFont, -apple-system, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+                },
+                {
+                    "offset": 0,
+                    "length": 356,
+                    "style": "fontsize-16"
+                },
+                {
+                    "offset": 3,
+                    "length": 16,
+                    "style": "ITALIC"
+                }
+            ],
+            "entityRanges": [],
+            "data": {
+                "text-align": "justify"
+            }
+        }
+    ],
+    "entityMap": {}
+}

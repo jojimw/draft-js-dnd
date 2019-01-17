@@ -1,0 +1,757 @@
+{
+	"blocks": [{
+			"key": "7njs0",
+			"text": "NON-DISCLOSURE AGREEMENT",
+			"type": "header-two",
+			"depth": 0,
+			"inlineStyleRanges": [{
+					"offset": 0,
+					"length": 24,
+					"style": "color-rgb(0,0,0)"
+				},
+				{
+					"offset": 0,
+					"length": 24,
+					"style": "bgcolor-transparent"
+				},
+				{
+					"offset": 0,
+					"length": 24,
+					"style": "fontsize-11pt"
+				},
+				{
+					"offset": 0,
+					"length": 24,
+					"style": "fontfamily-Arial"
+				}
+			],
+			"entityRanges": [],
+			"data": {
+				"text-align": "center"
+			}
+		},
+		{
+			"text": "{{iterable project.milestones}}"
+		},
+		{
+			"text": "{{iterable project.schedules}}"
+		},
+		{
+			"text": "{{iterable project.rates}}"
+		},
+		{
+			"key": "14v3t",
+			"text": "THIS AGREEMENT is made on {{text date}}",
+			"type": "unstyled",
+			"depth": 0,
+			"inlineStyleRanges": [{
+					"offset": 0,
+					"length": 39,
+					"style": "color-rgb(0,0,0)"
+				},
+				{
+					"offset": 0,
+					"length": 39,
+					"style": "bgcolor-transparent"
+				},
+				{
+					"offset": 0,
+					"length": 39,
+					"style": "fontsize-11pt"
+				},
+				{
+					"offset": 0,
+					"length": 39,
+					"style": "fontfamily-Arial"
+				}
+			],
+			"entityRanges": [],
+			"data": {}
+		},
+		{
+			"key": "9d8ag",
+			"text": "BETWEEN",
+			"type": "unstyled",
+			"depth": 0,
+			"inlineStyleRanges": [{
+				"offset": 0,
+				"length": 7,
+				"style": "color-rgb(0,0,0)"
+			}, {
+				"offset": 0,
+				"length": 7,
+				"style": "bgcolor-transparent"
+			}, {
+				"offset": 0,
+				"length": 7,
+				"style": "fontsize-11pt"
+			}, {
+				"offset": 0,
+				"length": 7,
+				"style": "fontfamily-Arial"
+			}],
+			"entityRanges": [],
+			"data": {}
+		},
+		{
+			"key": "f3teg",
+			"text": "{{text client.first_name}} {{text client.last_name}}, located at {{text client.address}} (\"Customer\") and",
+			"type": "unordered-list-item",
+			"depth": 0,
+			"inlineStyleRanges": [{
+					"offset": 0,
+					"length": 105,
+					"style": "color-rgb(0,0,0)"
+				},
+				{
+					"offset": 0,
+					"length": 105,
+					"style": "bgcolor-transparent"
+				},
+				{
+					"offset": 0,
+					"length": 105,
+					"style": "fontsize-11pt"
+				},
+				{
+					"offset": 0,
+					"length": 105,
+					"style": "fontfamily-Arial"
+				}
+			],
+			"entityRanges": [],
+			"data": {}
+		},
+		{
+			"key": "cdqvv",
+			"text": "{{text freelancer.first_name}} {{text freelancer.last_name}}, located at {{text freelancer.address}} (\"Freelancer\")",
+			"type": "unordered-list-item",
+			"depth": 0,
+			"inlineStyleRanges": [{
+					"offset": 0,
+					"length": 115,
+					"style": "color-rgb(0,0,0)"
+				},
+				{
+					"offset": 0,
+					"length": 115,
+					"style": "bgcolor-transparent"
+				},
+				{
+					"offset": 0,
+					"length": 115,
+					"style": "fontsize-11pt"
+				},
+				{
+					"offset": 0,
+					"length": 115,
+					"style": "fontfamily-Arial"
+				}
+			],
+			"entityRanges": [],
+			"data": {}
+		},
+		{
+			"key": "453vv",
+			"text": "First depth (\"Freelancer\")",
+			"type": "unordered-list-item",
+			"depth": 1,
+			"inlineStyleRanges": [{
+					"offset": 0,
+					"length": 115,
+					"style": "color-rgb(0,0,0)"
+				},
+				{
+					"offset": 0,
+					"length": 115,
+					"style": "bgcolor-transparent"
+				},
+				{
+					"offset": 0,
+					"length": 115,
+					"style": "fontsize-11pt"
+				},
+				{
+					"offset": 0,
+					"length": 115,
+					"style": "fontfamily-Arial"
+				}
+			],
+			"entityRanges": [],
+			"data": {}
+		},
+		{
+			"key": "453pv",
+			"text": "Second depth (\"Freelancer\")",
+			"type": "ordered-list-item",
+			"depth": 2,
+			"inlineStyleRanges": [{
+					"offset": 0,
+					"length": 115,
+					"style": "color-rgb(0,0,0)"
+				},
+				{
+					"offset": 0,
+					"length": 115,
+					"style": "bgcolor-transparent"
+				},
+				{
+					"offset": 0,
+					"length": 115,
+					"style": "fontsize-11pt"
+				},
+				{
+					"offset": 0,
+					"length": 115,
+					"style": "fontfamily-Arial"
+				}
+			],
+			"entityRanges": [],
+			"data": {}
+		},
+		{
+			"key": "90mag",
+			"text": "BETWEEN",
+			"type": "unstyled",
+			"depth": 0,
+			"inlineStyleRanges": [{
+				"offset": 0,
+				"length": 7,
+				"style": "color-rgb(0,0,0)"
+			}, {
+				"offset": 0,
+				"length": 7,
+				"style": "bgcolor-transparent"
+			}, {
+				"offset": 0,
+				"length": 7,
+				"style": "fontsize-11pt"
+			}, {
+				"offset": 0,
+				"length": 7,
+				"style": "fontfamily-Arial"
+			}],
+			"entityRanges": [],
+			"data": {}
+		},
+		{
+			"key": "c50vv",
+			"text": "{{text freelancer.first_name}} {{text freelancer.last_name}}, located at {{text freelancer.address}} (\"Freelancer\")",
+			"type": "unordered-list-item",
+			"depth": 0,
+			"inlineStyleRanges": [{
+					"offset": 0,
+					"length": 115,
+					"style": "color-rgb(0,0,0)"
+				},
+				{
+					"offset": 0,
+					"length": 115,
+					"style": "bgcolor-transparent"
+				},
+				{
+					"offset": 0,
+					"length": 115,
+					"style": "fontsize-11pt"
+				},
+				{
+					"offset": 0,
+					"length": 115,
+					"style": "fontfamily-Arial"
+				}
+			],
+			"entityRanges": [],
+			"data": {}
+		},
+		{
+			"key": "14b5i",
+			"text": "collectively referred to as the \"Parties\".",
+			"type": "unstyled",
+			"depth": 0,
+			"inlineStyleRanges": [{
+				"offset": 0,
+				"length": 42,
+				"style": "color-rgb(0,0,0)"
+			}, {
+				"offset": 0,
+				"length": 42,
+				"style": "bgcolor-transparent"
+			}, {
+				"offset": 0,
+				"length": 42,
+				"style": "fontsize-11pt"
+			}, {
+				"offset": 0,
+				"length": 42,
+				"style": "fontfamily-Arial"
+			}],
+			"entityRanges": [],
+			"data": {}
+		}, {
+			"key": "d85t8",
+			"text": "RECITALS",
+			"type": "unstyled",
+			"depth": 0,
+			"inlineStyleRanges": [{
+				"offset": 0,
+				"length": 8,
+				"style": "color-rgb(0,0,0)"
+			}, {
+				"offset": 0,
+				"length": 8,
+				"style": "bgcolor-transparent"
+			}, {
+				"offset": 0,
+				"length": 8,
+				"style": "fontsize-11pt"
+			}, {
+				"offset": 0,
+				"length": 8,
+				"style": "fontfamily-Arial"
+			}, {
+				"offset": 0,
+				"length": 8,
+				"style": "BOLD"
+			}],
+			"entityRanges": [],
+			"data": {}
+		}, {
+			"key": "a5e6j",
+			"text": "The Receiving Party understands that the Disclosing Party has disclosed or may disclose information relating to [ ], which to the extent previously, presently, or subsequently disclosed to the Receiving Party is hereinafter referred to as \"Proprietary Information\" of the Disclosing Party.",
+			"type": "unstyled",
+			"depth": 0,
+			"inlineStyleRanges": [{
+				"offset": 0,
+				"length": 72,
+				"style": "color-rgb(0,0,0)"
+			}, {
+				"offset": 73,
+				"length": 130,
+				"style": "color-rgb(0,0,0)"
+			}, {
+				"offset": 204,
+				"length": 62,
+				"style": "color-rgb(0,0,0)"
+			}, {
+				"offset": 267,
+				"length": 24,
+				"style": "color-rgb(0,0,0)"
+			}, {
+				"offset": 0,
+				"length": 72,
+				"style": "bgcolor-transparent"
+			}, {
+				"offset": 73,
+				"length": 130,
+				"style": "bgcolor-transparent"
+			}, {
+				"offset": 204,
+				"length": 62,
+				"style": "bgcolor-transparent"
+			}, {
+				"offset": 267,
+				"length": 24,
+				"style": "bgcolor-transparent"
+			}, {
+				"offset": 0,
+				"length": 72,
+				"style": "fontsize-11pt"
+			}, {
+				"offset": 73,
+				"length": 130,
+				"style": "fontsize-11pt"
+			}, {
+				"offset": 204,
+				"length": 62,
+				"style": "fontsize-11pt"
+			}, {
+				"offset": 267,
+				"length": 24,
+				"style": "fontsize-11pt"
+			}, {
+				"offset": 0,
+				"length": 72,
+				"style": "fontfamily-Arial"
+			}, {
+				"offset": 73,
+				"length": 130,
+				"style": "fontfamily-Arial"
+			}, {
+				"offset": 204,
+				"length": 62,
+				"style": "fontfamily-Arial"
+			}, {
+				"offset": 267,
+				"length": 24,
+				"style": "fontfamily-Arial"
+			}],
+			"entityRanges": [],
+			"data": {}
+		}, {
+			"key": "bg94l",
+			"text": "OPERATIVE PROVISIONS",
+			"type": "unstyled",
+			"depth": 0,
+			"inlineStyleRanges": [{
+				"offset": 0,
+				"length": 20,
+				"style": "color-rgb(0,0,0)"
+			}, {
+				"offset": 0,
+				"length": 20,
+				"style": "bgcolor-transparent"
+			}, {
+				"offset": 0,
+				"length": 20,
+				"style": "fontsize-11pt"
+			}, {
+				"offset": 0,
+				"length": 20,
+				"style": "fontfamily-Arial"
+			}, {
+				"offset": 0,
+				"length": 20,
+				"style": "BOLD"
+			}],
+			"entityRanges": [],
+			"data": {}
+		}, {
+			"key": "7j8qs",
+			"text": "In consideration of the disclosure of Proprietary Information by the Disclosing Party, the Receiving Party hereby agrees: (i) to hold the Proprietary Information in strict confidence and to take all reasonable precautions to protect such Proprietary Information (including, without limitation, all precautions the Receiving Party employs with respect to its own confidential materials), (ii) not to disclose any such Proprietary Information or any information derived therefrom to any third person, (iii) not to make any use whatsoever at any time of such Proprietary Information except to evaluate internally its relationship with the Disclosing Party, and (iv) not to copy or reverse engineer any such Proprietary Information. The Receiving Party shall procure that its employees, agents and sub-contractors to whom Proprietary Information is disclosed or who have access to Proprietary Information sign a nondisclosure or similar agreement in content substantially similar to this Agreement.",
+			"type": "unordered-list-item",
+			"depth": 0,
+			"inlineStyleRanges": [{
+				"offset": 0,
+				"length": 69,
+				"style": "color-rgb(0,0,0)"
+			}, {
+				"offset": 70,
+				"length": 130,
+				"style": "color-rgb(0,0,0)"
+			}, {
+				"offset": 201,
+				"length": 337,
+				"style": "color-rgb(0,0,0)"
+			}, {
+				"offset": 539,
+				"length": 458,
+				"style": "color-rgb(0,0,0)"
+			}, {
+				"offset": 0,
+				"length": 69,
+				"style": "bgcolor-transparent"
+			}, {
+				"offset": 70,
+				"length": 130,
+				"style": "bgcolor-transparent"
+			}, {
+				"offset": 201,
+				"length": 337,
+				"style": "bgcolor-transparent"
+			}, {
+				"offset": 539,
+				"length": 458,
+				"style": "bgcolor-transparent"
+			}, {
+				"offset": 0,
+				"length": 69,
+				"style": "fontsize-11pt"
+			}, {
+				"offset": 70,
+				"length": 130,
+				"style": "fontsize-11pt"
+			}, {
+				"offset": 201,
+				"length": 337,
+				"style": "fontsize-11pt"
+			}, {
+				"offset": 539,
+				"length": 458,
+				"style": "fontsize-11pt"
+			}, {
+				"offset": 0,
+				"length": 69,
+				"style": "fontfamily-Arial"
+			}, {
+				"offset": 70,
+				"length": 130,
+				"style": "fontfamily-Arial"
+			}, {
+				"offset": 201,
+				"length": 337,
+				"style": "fontfamily-Arial"
+			}, {
+				"offset": 539,
+				"length": 458,
+				"style": "fontfamily-Arial"
+			}],
+			"entityRanges": [],
+			"data": {}
+		}, {
+			"key": "dokh0",
+			"text": "Without granting any right or license, the Disclosing Party agrees that the foregoing shall not apply with respect to any information after five years following the disclosure thereof or any information that the Receiving Party can document (i) is or becomes (through no improper action or inaction by the Receiving Party or any affiliate, agent, consultant or employee) generally available to the public, or (ii) was in its possession or known by it prior to receipt from the Disclosing Party as evidenced in writing, except to the extent that such information was unlawfully appropriated, or (iii) was rightfully disclosed to it by a third party, or (iv) was independently developed without use of any Proprietary Information of the Disclosing Party. The Receiving Party may make disclosures required by law or court order provided the Receiving Party uses diligent reasonable efforts to limit disclosure and has allowed the Disclosing Party to seek a protective order.",
+			"type": "unordered-list-item",
+			"depth": 0,
+			"inlineStyleRanges": [{
+				"offset": 0,
+				"length": 76,
+				"style": "color-rgb(0,0,0)"
+			}, {
+				"offset": 77,
+				"length": 895,
+				"style": "color-rgb(0,0,0)"
+			}, {
+				"offset": 0,
+				"length": 76,
+				"style": "bgcolor-transparent"
+			}, {
+				"offset": 77,
+				"length": 895,
+				"style": "bgcolor-transparent"
+			}, {
+				"offset": 0,
+				"length": 76,
+				"style": "fontsize-11pt"
+			}, {
+				"offset": 77,
+				"length": 895,
+				"style": "fontsize-11pt"
+			}, {
+				"offset": 0,
+				"length": 76,
+				"style": "fontfamily-Arial"
+			}, {
+				"offset": 77,
+				"length": 895,
+				"style": "fontfamily-Arial"
+			}],
+			"entityRanges": [],
+			"data": {}
+		}, {
+			"key": "ev839",
+			"text": "Immediately upon the written request by the Disclosing Party at any time, the Receiving Party will return to the Disclosing Party all Proprietary Information and all documents or media containing any such Proprietary Information and any and all copies or extracts thereof, save that where such Proprietary Information is a form incapable of return or has been copied or transcribed into another document, it shall be destroyed or erased, as appropriate.",
+			"type": "unordered-list-item",
+			"depth": 0,
+			"inlineStyleRanges": [{
+				"offset": 0,
+				"length": 453,
+				"style": "color-rgb(0,0,0)"
+			}, {
+				"offset": 0,
+				"length": 453,
+				"style": "bgcolor-transparent"
+			}, {
+				"offset": 0,
+				"length": 453,
+				"style": "fontsize-11pt"
+			}, {
+				"offset": 0,
+				"length": 453,
+				"style": "fontfamily-Arial"
+			}],
+			"entityRanges": [],
+			"data": {}
+		}, {
+			"key": "3fliv",
+			"text": "The Receiving Party understands that nothing herein (i) requires the disclosure of any Proprietary Information or (ii) requires the Disclosing Party to proceed with any transaction or relationship.",
+			"type": "unordered-list-item",
+			"depth": 0,
+			"inlineStyleRanges": [{
+				"offset": 0,
+				"length": 197,
+				"style": "color-rgb(0,0,0)"
+			}, {
+				"offset": 0,
+				"length": 197,
+				"style": "bgcolor-transparent"
+			}, {
+				"offset": 0,
+				"length": 197,
+				"style": "fontsize-11pt"
+			}, {
+				"offset": 0,
+				"length": 197,
+				"style": "fontfamily-Arial"
+			}],
+			"entityRanges": [],
+			"data": {}
+		}, {
+			"key": "d3nl6",
+			"text": "The Receiving Party further acknowledges and agrees that no representation or warranty, express or implied, is or will be made, and no responsibility or liability is or will be accepted by the Disclosing Party, or by any of its respective directors, officers, employees, agents or advisers, as to, or in relation to, the accuracy of completeness of any Proprietary Information made available to the Receiving Party or its advisers; it is responsible for making its own evaluation of such Proprietary Information.",
+			"type": "unordered-list-item",
+			"depth": 0,
+			"inlineStyleRanges": [{
+				"offset": 0,
+				"length": 512,
+				"style": "color-rgb(0,0,0)"
+			}, {
+				"offset": 0,
+				"length": 512,
+				"style": "bgcolor-transparent"
+			}, {
+				"offset": 0,
+				"length": 512,
+				"style": "fontsize-11pt"
+			}, {
+				"offset": 0,
+				"length": 512,
+				"style": "fontfamily-Arial"
+			}],
+			"entityRanges": [],
+			"data": {}
+		}, {
+			"key": "4s9br",
+			"text": "The failure of either party to enforce its rights under this Agreement at any time for any period shall not be construed as a waiver of such rights. If any part, term or provision of this Agreement is held to be illegal or unenforceable neither the validity, nor enforceability of the remainder of this Agreement shall be affected. Neither Party shall assign or transfer all or any part of its rights under this Agreement without the consent of the other Party. This Agreement may not be amended for any other reason without the prior written agreement of both Parties. This Agreement constitutes the entire understanding between the Parties relating to the subject matter hereof unless any representation or warranty made about this Agreement was made fraudulently and, save as may be expressly referred to or referenced herein, supersedes all prior representations, writings, negotiations or understandings with respect hereto.",
+			"type": "unordered-list-item",
+			"depth": 0,
+			"inlineStyleRanges": [{
+				"offset": 0,
+				"length": 136,
+				"style": "color-rgb(0,0,0)"
+			}, {
+				"offset": 137,
+				"length": 265,
+				"style": "color-rgb(0,0,0)"
+			}, {
+				"offset": 403,
+				"length": 66,
+				"style": "color-rgb(0,0,0)"
+			}, {
+				"offset": 470,
+				"length": 267,
+				"style": "color-rgb(0,0,0)"
+			}, {
+				"offset": 738,
+				"length": 117,
+				"style": "color-rgb(0,0,0)"
+			}, {
+				"offset": 856,
+				"length": 78,
+				"style": "color-rgb(0,0,0)"
+			}, {
+				"offset": 0,
+				"length": 136,
+				"style": "bgcolor-transparent"
+			}, {
+				"offset": 137,
+				"length": 265,
+				"style": "bgcolor-transparent"
+			}, {
+				"offset": 403,
+				"length": 66,
+				"style": "bgcolor-transparent"
+			}, {
+				"offset": 470,
+				"length": 267,
+				"style": "bgcolor-transparent"
+			}, {
+				"offset": 738,
+				"length": 117,
+				"style": "bgcolor-transparent"
+			}, {
+				"offset": 856,
+				"length": 78,
+				"style": "bgcolor-transparent"
+			}, {
+				"offset": 0,
+				"length": 136,
+				"style": "fontsize-11pt"
+			}, {
+				"offset": 137,
+				"length": 265,
+				"style": "fontsize-11pt"
+			}, {
+				"offset": 403,
+				"length": 66,
+				"style": "fontsize-11pt"
+			}, {
+				"offset": 470,
+				"length": 267,
+				"style": "fontsize-11pt"
+			}, {
+				"offset": 738,
+				"length": 117,
+				"style": "fontsize-11pt"
+			}, {
+				"offset": 856,
+				"length": 78,
+				"style": "fontsize-11pt"
+			}, {
+				"offset": 0,
+				"length": 136,
+				"style": "fontfamily-Arial"
+			}, {
+				"offset": 137,
+				"length": 265,
+				"style": "fontfamily-Arial"
+			}, {
+				"offset": 403,
+				"length": 66,
+				"style": "fontfamily-Arial"
+			}, {
+				"offset": 470,
+				"length": 267,
+				"style": "fontfamily-Arial"
+			}, {
+				"offset": 738,
+				"length": 117,
+				"style": "fontfamily-Arial"
+			}, {
+				"offset": 856,
+				"length": 78,
+				"style": "fontfamily-Arial"
+			}],
+			"entityRanges": [],
+			"data": {}
+		}, {
+			"key": "b86cu",
+			"text": "",
+			"type": "unstyled",
+			"depth": 0,
+			"inlineStyleRanges": [],
+			"entityRanges": [],
+			"data": {}
+		}, {
+			"key": "93fgf",
+			"text": "This Agreement shall be governed by the laws of the jurisdiction in which the Disclosing Party is located (or if the Disclosing Party is based in more than one country, the country in which its headquarters are located) (the \"Territory\") and the parties agree to submit disputes arising out of or in connection with this Agreement to the non-exclusive of the courts in the Territory. ",
+			"type": "unstyled",
+			"depth": 0,
+			"inlineStyleRanges": [{
+				"offset": 0,
+				"length": 137,
+				"style": "color-rgb(0,0,0)"
+			}, {
+				"offset": 138,
+				"length": 246,
+				"style": "color-rgb(0,0,0)"
+			}, {
+				"offset": 0,
+				"length": 137,
+				"style": "bgcolor-transparent"
+			}, {
+				"offset": 138,
+				"length": 246,
+				"style": "bgcolor-transparent"
+			}, {
+				"offset": 0,
+				"length": 137,
+				"style": "fontsize-11pt"
+			}, {
+				"offset": 138,
+				"length": 246,
+				"style": "fontsize-11pt"
+			}, {
+				"offset": 0,
+				"length": 137,
+				"style": "fontfamily-Arial"
+			}, {
+				"offset": 138,
+				"length": 246,
+				"style": "fontfamily-Arial"
+			}],
+			"entityRanges": [],
+			"data": {}
+		}
+	],
+	"entityMap": {}
+}
