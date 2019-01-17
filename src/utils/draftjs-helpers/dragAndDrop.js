@@ -1,5 +1,3 @@
-import React from "react";
-
 export const handleDragStart = event => {
     event.dataTransfer.setData("text", event.target.id);
     event.target.classList.add('dragging')

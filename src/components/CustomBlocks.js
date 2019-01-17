@@ -2,7 +2,10 @@ import React from "react";
 
 class sampleBlock extends React.Component {
     render() {
-        const {block, contentState} = this.props;
+        const {
+            block,
+            // contentState
+        } = this.props;
         const data = block.getData();
         return (
             //   <div style={{paddingTop: '50px', paddingBottom: '8px'}}>

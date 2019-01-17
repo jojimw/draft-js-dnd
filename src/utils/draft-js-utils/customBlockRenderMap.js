@@ -1,6 +1,5 @@
-import React from "react";
 import Draft from "draft-js";
-import Immutable, { Map } from "immutable";
+import Immutable from "immutable";
 
 const customBlockRenderMap = Immutable.Map({
     'custom-block-h3': {

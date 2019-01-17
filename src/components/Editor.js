@@ -6,8 +6,8 @@ import {
 } from 'draft-js';
 import 'draft-js/dist/Draft.css';
 
-import initContent from "../templates/initContent.json";
-import termsConditions from "./../templates/terms2.json";
+// import initContent from "../templates/initContent.json";
+// import termsConditions from "./../templates/terms2.json";
 
 import {
     sampleBlockRenderer,
