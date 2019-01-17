@@ -22,7 +22,7 @@ import {
     getContentBlockArray,
     getBlockArray,
     inputFromUser 
-} from "../utils/draftjs-helpers"
+} from "../utils/draft-js-helpers"
 
 class MyEditor extends React.Component {
     constructor(props) {
