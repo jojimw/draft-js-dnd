@@ -89,7 +89,7 @@ class MyEditor extends React.Component {
                 >
                     Terms
                 </div>
-                
+
                 <Editor
                     editorState={this.state.editorState}
                     handleKeyCommand={this.handleKeyCommand}
