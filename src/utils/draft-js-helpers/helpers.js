@@ -31,18 +31,17 @@ export const getNextEditorState = (editorState, contentBlockArray, selection) =>
 }
 
 export const logState = editorState => {
-    console.log(convertToRaw(editorState.getCurrentContent()));
+    console.log( convertToRaw( editorState.getCurrentContent() ) );
 }
 
 export const getContentBlockArray = (dataArray) => {
-    return dataArray.map(blockData => {
-        const block = new ContentBlock({
+    return dataArray.map(blockData => new ContentBlock(
+        {
             ...blockData,
             key: genKey(),
             data: new Map({})
         })
-        return block;
-    })
+    );
 }
 
 export const inputFromUser = () => {
@@ -53,7 +52,7 @@ export const inputFromUser = () => {
             key: genKey(),
             data: new Map({})
         })
-    ]
+    ];
 }
 
 export const getBlockArray = type => {
