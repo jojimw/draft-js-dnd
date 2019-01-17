@@ -72,6 +72,7 @@ class MyEditor extends React.Component {
         })
         return (
             <React.Fragment>
+                <h2>New Editor</h2>
                 <div className='toolbar'>
                     {buttons}
                     <button key='logger' onClick={() => logState(this.state.editorState)}>LOG STATE</button>
@@ -88,7 +89,7 @@ class MyEditor extends React.Component {
                 >
                     Terms
                 </div>
-
+                
                 <Editor
                     editorState={this.state.editorState}
                     handleKeyCommand={this.handleKeyCommand}
