@@ -10,3 +10,7 @@ export {
     getBlockArray,
     inputFromUser    
 } from "./helpers"
+
+export {
+    heightCalc
+} from "./heightCalc"

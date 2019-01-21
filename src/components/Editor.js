@@ -21,7 +21,8 @@ import {
     logState,
     getContentBlockArray,
     getBlockArray,
-    inputFromUser 
+    inputFromUser, 
+    heightCalc
 } from "../utils/draft-js-helpers";
 
 class MyEditor extends React.Component {
@@ -70,6 +71,7 @@ class MyEditor extends React.Component {
         const buttons = styles.map(style => {
             return <button key={style} onClick={this.onStyleButtonClick} name={style}>{style}</button>
         })
+        heightCalc();
         return (
             <React.Fragment>
                 <h2>New Editor</h2>
