@@ -21,7 +21,7 @@ import {
     logState,
     getContentBlockArray,
     getBlockArray,
-    inputFromUser, 
+    inputFromUser,
     heightCalc
 } from "../utils/draft-js-helpers";
 
@@ -30,10 +30,11 @@ class MyEditor extends React.Component {
         super(props);
         this.state = {
             editorState: EditorState.createEmpty()
-            // editorState: EditorState.createWithContent(convertFromRaw(initContent))
-            // editorState: EditorState.createWithContent(convertFromRaw(termsConditions))
         };
-        this.onChange = (editorState) => this.setState({ editorState });
+        this.onChange = (editorState) => {
+            this.setState({ editorState });
+            heightCalc();
+        }
         this.handleKeyCommand = this.handleKeyCommand.bind(this);
     }
 
@@ -71,15 +72,14 @@ class MyEditor extends React.Component {
         const buttons = styles.map(style => {
             return <button key={style} onClick={this.onStyleButtonClick} name={style}>{style}</button>
         })
-        heightCalc();
         return (
             <React.Fragment>
                 <h2>New Editor</h2>
                 <div className='toolbar'>
                     {buttons}
                     <button key='logger' onClick={() => logState(this.state.editorState)}>LOG STATE</button>
-                    <button key='text' onClick={() => this.insertContent( getContentBlockArray(getBlockArray('terms') ) ) }>INSERT</button>
-                    <button key='input' onClick={() => this.insertContent( inputFromUser() ) }>INPUT</button>
+                    <button key='text' onClick={() => this.insertContent(getContentBlockArray(getBlockArray('terms')))}>INSERT</button>
+                    <button key='input' onClick={() => this.insertContent(inputFromUser())}>INPUT</button>
                 </div>
 
                 <div
@@ -87,7 +87,7 @@ class MyEditor extends React.Component {
                     draggable
                     id="terms"
                     onDragStart={e => handleDragStart(e)}
-                    onDragEnd={e => handleDragEnd(e)} 
+                    onDragEnd={e => handleDragEnd(e)}
                 >
                     Terms
                 </div>
